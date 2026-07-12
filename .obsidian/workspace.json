@@ -11,14 +11,10 @@
             "id": "35f6b49038b0148c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "卡片标题怎么写：三个核心原则+两个测试.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "卡片标题怎么写：三个核心原则+两个测试"
+              "title": "新标签页"
             }
           }
         ]
@@ -182,6 +178,8 @@
   },
   "active": "35f6b49038b0148c",
   "lastOpenFiles": [
+    "卡片标题怎么写：三个核心原则+两个测试.md",
+    "卡片/卡片标题怎么写：三个核心原则+两个测试.md",
     "knowledge-base/README.md",
     "knowledge-base"
   ]
