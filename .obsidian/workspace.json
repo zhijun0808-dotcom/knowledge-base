@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "72c407c7a1bb58ec",
+        "id": "98b89d61535fb787",
         "type": "tabs",
         "children": [
           {
-            "id": "e478db6629e6429d",
+            "id": "0d264515839cf19d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "结构笔记/📌元认知.md",
-                "mode": "source",
-                "source": false
+                "file": "卡片库.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "📌元认知"
+              "icon": "lucide-table",
+              "title": "卡片库"
             }
           }
         ]
@@ -180,8 +179,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "e478db6629e6429d",
+  "active": "0d264515839cf19d",
   "lastOpenFiles": [
+    "模板-经典卡.md",
+    "卡片库.base",
+    "未命名.md",
+    "结构笔记/📌元认知.md",
     "卡片/句式-核心在于——追问原因.md",
     "卡片/句式-恰恰相反——反驳常识.md",
     "卡片/句式-取决于——供需视角.md",
@@ -205,11 +208,7 @@
     "卡片/句式-分为三个层次——程度分级.md",
     "卡片/记录是把瞬间想法锚定为思想成果的关键一步.md",
     "卡片/句式-的前提是——指出前提.md",
-    "卡片/句式-就像一样——打比方.md",
-    "卡片/边际思维：决策引擎=MB vs MC.md",
-    "卡片/元认知的深度-能挖到多深的规律.md",
     "IMG_2389.png",
-    "未命名.base",
     "结构笔记",
     "卡片",
     "knowledge-base"

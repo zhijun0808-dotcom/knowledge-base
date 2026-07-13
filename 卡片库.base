@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+      - file.backlinks
+      - file.basename
+      - file.ctime
+      - file.mtime
+      - tags
