@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "结构笔记/📌逻辑学.md",
+                "file": "结构笔记/📌经济学.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📌逻辑学"
+              "title": "📌经济学"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "结构笔记/📌逻辑学.md",
+                "file": "结构笔记/📌经济学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "📌逻辑学 的反向链接列表"
+              "title": "📌经济学 的反向链接列表"
             }
           },
           {
@@ -182,13 +182,16 @@
   },
   "active": "328bdb86e91890aa",
   "lastOpenFiles": [
-    "卡片/最低工资法本意护穷人实则把低生产率者的就业权立法剥夺了.md",
+    "卡片/劳动不是普通商品：是人、技能不可转移、培训有外部性.md",
     "结构笔记/📌经济学.md",
+    "结构笔记/📌逻辑学.md",
+    "ANCHORED_SUMMARY.md",
+    "卡片/劳动不是普通商品，是人、技能不可转移、培训有外部性.md",
+    "卡片/最低工资法本意护穷人实则把低生产率者的就业权立法剥夺了.md",
     "卡片/工资=边际生产价值，老板给不了也不用给.md",
     "卡片/边际收益递减——每多卖一个，赚得越少.md",
     "卡片/增量收益（MB）= 每个决策者都有自己的价值标尺.md",
     "卡片/溯因推理+归谬法：从现象找解释，用反证验真伪.md",
-    "结构笔记/📌逻辑学.md",
     "卡片/利润是社会为效率付的价，亏损是资源该挪窝的警报.md",
     "卡片/交易不创造东西，但创造价值：从不要的人流向要的人.md",
     "卡片/规模经济有拐点：企业不会无限大.md",
@@ -205,9 +208,6 @@
     "卡片/系统因果：经济里的因果是网状互馈，不是线性单链.md",
     "卡片/稀缺让竞争不可避免，问题是竞争以什么形式发生.md",
     "卡片/价格是单个交易的信号，企业兴衰是决策模式的信号，同源不同尺度.md",
-    "卡片/企业的兴衰不是故障，是经济自我更新的机制.md",
-    "结构笔记/📌 卡片工具.md",
-    "卡片/稀缺资源迫使你不断用边际思维做决策.md",
     "卡片库.base",
     "IMG_2389.png",
     "结构笔记",
